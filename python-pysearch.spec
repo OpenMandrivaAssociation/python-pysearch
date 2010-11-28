@@ -2,7 +2,7 @@ Name:           python-pysearch
 Version:        3.1
 Release:        %mkrel 1
 Summary:        Python API for the Yahoo Search Webservices API
-Group:          Development/Tools
+Group:          Development/Python
 License:        GPLv2+
 URL:            http://sourceforge.net/projects/pysearch/
 Source0:        %{name}-%{version}.tar.gz
