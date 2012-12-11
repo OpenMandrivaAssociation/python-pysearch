@@ -39,3 +39,14 @@ rm -rf $RPM_BUILD_ROOT
 %{python_sitelib}/yahoo/*
 %{python_sitelib}/pYsearch*
 
+
+
+%changelog
+* Sun Nov 28 2010 Stéphane Téletchéa <steletch@mandriva.org> 3.1-1mdv2011.0
++ Revision: 602514
+- Update RPM group name
+
+  + Tadej Panjtar <tadej@mandriva.org>
+    - import python-pysearch
+
+
