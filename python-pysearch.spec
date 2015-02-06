@@ -2,7 +2,7 @@
 
 Name:           python-pysearch
 Version:        3.1
-Release:        2
+Release:        3
 Summary:        Python API for the Yahoo Search Webservices API
 Group:          Development/Python
 License:        GPLv2+
