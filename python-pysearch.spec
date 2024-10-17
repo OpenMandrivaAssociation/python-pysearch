@@ -6,7 +6,7 @@ Release:        3
 Summary:        Python API for the Yahoo Search Webservices API
 Group:          Development/Python
 License:        GPLv2+
-URL:            http://sourceforge.net/projects/pysearch/
+URL:            https://sourceforge.net/projects/pysearch/
 Source0:        %{name}-%{version}.tar.gz
 Provides:       pYsearch
 BuildRequires:  python-devel
